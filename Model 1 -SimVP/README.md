@@ -1,4 +1,4 @@
-This folder pertains to our code for the implementation of SimVP: Simpler Yet Better Video Prediction, and was inspired from this [paper](https://arxiv.org/pdf/2206.05099.pdf) and [GitHub](https://github.com/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction) repository. 
+This folder pertains to our code for the implementation of SimVP, and was inspired from the [paper](https://arxiv.org/pdf/2206.05099.pdf) SimVP: Simpler yet Better Video Prediction by  Gao et al and their published [GitHub](https://github.com/gaozhangyang/SimVP-Simpler-yet-Better-Video-Prediction) repository. 
 
 ## Description
 
