@@ -1,5 +1,3 @@
-This is Video Frame Prediction and Semantic Segmentation project:
-
 ### Project Description
 
 #### Problem Statement:
